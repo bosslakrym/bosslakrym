@@ -6,7 +6,7 @@ const Main = () => {
     <div class='container-fluid'>
         <div className="bio">
             <div className="bio-image">
-                <img src="https://i0.wp.com/storesby.com/wp-content/uploads/2022/11/139123966_107536554541744_3661573794360601122_n.jpg?resize=240%2C300&ssl=1" className='profilePic' alt="" />
+                <img src="https://avatars.githubusercontent.com/u/42168040?v=4" className='profilePic' alt="" />
             </div>
            <h1 class="head-text pt-5">- Otufowora AbdulKareem -</h1>
         </div>

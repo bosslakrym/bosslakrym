@@ -4,7 +4,7 @@ import projects from '../styles/project.css'
 const Projects = () => {
   return (
     <div class="container">
-        <h1 className='projects'>Projects</h1>
+        <h1 className='projects'>- Projects -</h1>
      <div class="row row-cols-1 row-cols-md-2 g-4">
         <div class="col">
             <div class="card">
