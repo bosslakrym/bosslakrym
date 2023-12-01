@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bosslakrym/static/css/main.83042325.css",
+    "main.js": "/bosslakrym/static/js/main.f887cbfb.js",
+    "index.html": "/bosslakrym/index.html",
+    "main.83042325.css.map": "/bosslakrym/static/css/main.83042325.css.map",
+    "main.f887cbfb.js.map": "/bosslakrym/static/js/main.f887cbfb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83042325.css",
+    "static/js/main.f887cbfb.js"
+  ]
+}
